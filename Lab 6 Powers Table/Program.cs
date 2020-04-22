@@ -6,6 +6,8 @@ namespace Lab_6_Powers_Table
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Learn your squares and cubes!\n");
+
             do
             {
                 int userInteger = ReadIntegers("Enter an integer: ");
