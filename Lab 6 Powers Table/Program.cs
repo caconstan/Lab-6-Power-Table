@@ -12,12 +12,12 @@ namespace Lab_6_Powers_Table
             {
                 int userInteger = ReadIntegers("Enter an integer: ");
 
-                Console.WriteLine("Number\tSquared\tCubed");
-                Console.WriteLine("======\t=======\t=====");
+                Console.WriteLine("{0,-10}\t{1,-10}\t{2,-10}", "Number", "Squared", "Cubed");
+                Console.WriteLine("{0,-10}\t{1,-10}\t{2,-10}", "======", "=======", "=====");
 
                 for (int i=1; i <= userInteger; i++)
                 {
-                    Console.WriteLine($"{Math.Pow(i, 1)}\t{Math.Pow(i, 2)}\t{Math.Pow(i, 3)}");
+                    Console.WriteLine("{0,-10}\t{1,-10}\t{2,-10}", Math.Pow(i, 1), Math.Pow(i, 2), Math.Pow(i, 3));
                 }
             } while (RunAgain());
         }
