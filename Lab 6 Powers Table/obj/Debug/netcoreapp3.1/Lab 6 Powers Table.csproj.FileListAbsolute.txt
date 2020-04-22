@@ -1,0 +1,13 @@
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 6 Powers Table\Lab 6 Powers Table\bin\Debug\netcoreapp3.1\Lab 6 Powers Table.exe
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 6 Powers Table\Lab 6 Powers Table\bin\Debug\netcoreapp3.1\Lab 6 Powers Table.deps.json
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 6 Powers Table\Lab 6 Powers Table\bin\Debug\netcoreapp3.1\Lab 6 Powers Table.runtimeconfig.json
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 6 Powers Table\Lab 6 Powers Table\bin\Debug\netcoreapp3.1\Lab 6 Powers Table.runtimeconfig.dev.json
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 6 Powers Table\Lab 6 Powers Table\bin\Debug\netcoreapp3.1\Lab 6 Powers Table.dll
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 6 Powers Table\Lab 6 Powers Table\bin\Debug\netcoreapp3.1\Lab 6 Powers Table.pdb
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 6 Powers Table\Lab 6 Powers Table\obj\Debug\netcoreapp3.1\Lab 6 Powers Table.csprojAssemblyReference.cache
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 6 Powers Table\Lab 6 Powers Table\obj\Debug\netcoreapp3.1\Lab 6 Powers Table.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 6 Powers Table\Lab 6 Powers Table\obj\Debug\netcoreapp3.1\Lab 6 Powers Table.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 6 Powers Table\Lab 6 Powers Table\obj\Debug\netcoreapp3.1\Lab 6 Powers Table.AssemblyInfo.cs
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 6 Powers Table\Lab 6 Powers Table\obj\Debug\netcoreapp3.1\Lab 6 Powers Table.dll
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 6 Powers Table\Lab 6 Powers Table\obj\Debug\netcoreapp3.1\Lab 6 Powers Table.pdb
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 6 Powers Table\Lab 6 Powers Table\obj\Debug\netcoreapp3.1\Lab 6 Powers Table.genruntimeconfig.cache
